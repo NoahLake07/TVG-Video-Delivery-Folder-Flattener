@@ -3,8 +3,7 @@
 **Version:** 1.0  
 **Developed for:** The Video Goat LLC (now operating as Goat Legacy Media LLC)
 
-**Download JAR:** [VideoFolderFlattener-1.0.jar](https://example.com/downloads/VideoFolderFlattener-1.0.jar)  
-*(replace this link with the actual hosted JAR location)*
+**Download JAR:** [VideoFolderFlattener-1.0.jar](https://drive.google.com/file/d/1NEELokEErYpOsCSQXAH63a35R9KilQFC/view?usp=drive_link)  
 
 ---
 
