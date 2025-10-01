@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TVG Video Folder Flattener:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TVG_Video_Folder_Flattener_jar</output-path>
+    <root id="archive" name="VideoFolderFlattener.jar">
+      <element id="module-output" name="VideoFolderFlattener" />
+    </root>
+  </artifact>
+</component>
